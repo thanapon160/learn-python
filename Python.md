@@ -6,9 +6,9 @@
 
 1.print(**'params'**, **sep**, **end**)
 - print out **'params'**
-**sep**
+- **sep**
 : seperator between value (default = space)
-**end**
+- **end**
 : appear last value
 
 2.input('display text') // เก็บค่าที่เราต้องการจะใส่
