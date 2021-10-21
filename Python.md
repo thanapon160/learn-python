@@ -4,11 +4,11 @@
 
 - \n : new line
 
-<code>
+
 1. print(**'params'**, **sep**, **end**)
 - print out **'params'**
 - **sep**
-<red: seperator between value (default = space)
+: seperator between value (default = space)
 - **end**
 : appear last value>
 
@@ -16,4 +16,3 @@
 - / = หารไม่ได้เอาจำนวนเต็ม
 - // = หารเพื่อเอาจำนวนเต็ม
 - % = หารเอาเศษ
-</code>
