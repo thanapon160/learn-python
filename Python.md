@@ -2,6 +2,13 @@
 
 ## syntax
 
+About Integer
+- * = คูณ
+- ** = ยกกำลัง
+- / = หารไม่ได้เอาจำนวนเต็ม
+- // = หารเพื่อเอาจำนวนเต็ม
+- % = หารเอาเศษ
+
 - \n : new line
 
 
@@ -13,6 +20,20 @@
 : appear last value>
 
 2. input('display text') // เก็บค่าที่เราต้องการจะใส่
-- / = หารไม่ได้เอาจำนวนเต็ม
-- // = หารเพื่อเอาจำนวนเต็ม
-- % = หารเอาเศษ
+
+
+3.
+```Python
+range(start, stop)
+```
+เอาค่าตั้งแต่ start หยุดที่ stop stop คือไม่เอา
+
+4.
+```Python
+len()
+```
+length ของชุดข้อมูล
+
+<div class="text-white bg-purple mb-2">
+  .text-white on .bg-purple
+</div>
