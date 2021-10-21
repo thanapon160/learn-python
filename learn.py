@@ -6,4 +6,4 @@ print(a, b, sep = ' Python ', end = '!\n')
 
 print('P"y\'th"on')
 
-print(55/11)
+print(55/11) # result 5.0
