@@ -34,6 +34,10 @@ len()
 ```
 length ของชุดข้อมูล
 
-<div class="text-white bg-purple mb-2">
-  .text-white on .bg-purple
-</div>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
